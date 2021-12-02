@@ -1,0 +1,66 @@
+﻿body {
+    font-family: Helvetica, Arial;
+    background-color:antiquewhite;
+}
+
+.label_gral {
+    background-color: #0000FF;
+    color: #00FF00;
+    font-family: Helvetica, Arial;
+}
+
+
+.labels_obligatorio {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight:bold;
+}
+
+.labels_preferencias {
+    background-color: #00FF00;
+    color: #000000;
+    font-size: 8px;
+}
+
+.labels_personales {
+    background-color: #0000FF;
+    color: #00FF00;
+    font-size: 12px;
+    font-family: Helvetica, Arial;
+}
+
+.enfocada {
+    background-color: #66CCFF;
+    color:#3333CC;
+    font-family:Papyrus, Calibri;
+}
+
+.desenfocada {
+    background-color: #FFF;
+    color: #000;
+    font-family: Arial;
+}
+
+
+.centerTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centrado{
+    text-align:center;
+}
+
+.divCentrado {
+    margin-left:auto;
+    margin-right:auto;
+    align-items:center;
+    justify-content:center;
+    margin: 0 auto;
+}
+
+table, td, tr {
+    border: solid 1px;
+    padding:4px;
+}
